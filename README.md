@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on [Bike Zone](https://github.com/dev-sweet/bike-zone-client)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning  [Next.Js](https://nextjs.org/)
 
-- 👨‍💻 All of my projects are available at [https://sweet-ali.web.app/](https://sweet-ali.web.app/)
+- 👨‍💻 All of my projects are available at [Here](https://sweet-ali.web.app/)
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **sweetali0520@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cRtkBCbMfq2hGY2oxpEWDHE4u60vQqp5/view?usp=sharing](https://drive.google.com/file/d/1cRtkBCbMfq2hGY2oxpEWDHE4u60vQqp5/view?usp=sharing)
+- 📄 Know about my experiences [From Here](https://drive.google.com/file/d/1cRtkBCbMfq2hGY2oxpEWDHE4u60vQqp5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
