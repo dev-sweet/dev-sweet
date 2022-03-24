@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **sweetali0520@gmail.com**
+- 📫 How to reach me [Email](mailto:sweetali0520@gmail.com)
 
-- 📄 Know about my experiences [From Here](https://drive.google.com/file/d/1cRtkBCbMfq2hGY2oxpEWDHE4u60vQqp5/view?usp=sharing)
+- 📄 Know about my experiences from [Here](https://drive.google.com/file/d/1cRtkBCbMfq2hGY2oxpEWDHE4u60vQqp5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
