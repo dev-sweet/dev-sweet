@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at [Here](https://sweet-ali.web.app/)
 
 - 💬 Ask me about **React**
-
+<a href="mailto:sweetali0520@gmail.com">Mail</a>
 - 📫 How to reach me [Email](mailto:sweetali0520@gmail.com)
 
 - 📄 Know about my experiences from [Here](https://drive.google.com/file/d/1cRtkBCbMfq2hGY2oxpEWDHE4u60vQqp5/view?usp=sharing)
