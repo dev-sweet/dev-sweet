@@ -1,3 +1,4 @@
+<img src="https://github.com/dev-sweet/dev-sweet/blob/main/Black%20Geometric%20Marketing%20Expert%20LinkedIn%20Banner%20(2).jpg"/>
 <h1 align="center">Hi 👋, I'm Sweet Ali</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
