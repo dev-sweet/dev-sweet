@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-sweet" alt="dev-sweet" /></a> </p>
 
-- 🔭 I’m currently working on [Bike Zone](https://github.com/dev-sweet/bike-zone-client)
+- 🔭 I’m currently working on [Harry Shop](https://github.com/dev-sweet/harry-shop)
 
 - 🌱 I’m currently learning  [Next.Js](https://nextjs.org/)
 
