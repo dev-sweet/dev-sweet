@@ -1,3 +1,5 @@
+<div align="center">
+
 ```
 ███████╗██╗    ██╗███████╗███████╗████████╗     █████╗ ██╗     ██╗
 ██╔════╝██║    ██║██╔════╝██╔════╝╚══██╔══╝    ██╔══██╗██║     ██║
@@ -7,19 +9,17 @@
 ╚══════╝ ╚══╝╚══╝ ╚══════╝╚══════╝   ╚═╝       ╚═╝  ╚═╝╚══════╝╚═╝
 ```
 
-<p align="center">
-  <em>// full-stack engineer · dhaka, bangladesh · self-taught · building in production</em>
-</p>
+*// full-stack engineer · dhaka, bangladesh · self-taught · building in production*
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dev-sweet&label=Profile+Views&color=5dcaa5&style=flat-square" alt="profile views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=dev-sweet&label=Profile+Views&color=00b04f&style=flat-square" alt="profile views" />
+
+</div>
 
 ---
 
 ### $ whoami
 
-Self-taught Full-Stack Engineer with **1+ year** of professional experience and **3+ years** of project-based development.  
+Self-taught Full-Stack Engineer with **1+ year** of professional experience and **3+ years** of project-based development.
 Building ERP, AI-powered, and e-commerce applications for real businesses in Bangladesh.
 
 ```bash
@@ -40,13 +40,13 @@ Building ERP, AI-powered, and e-commerce applications for real businesses in Ban
     <img src="https://img.shields.io/badge/LinkedIn-sweet--ali-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://sweet-portfolio1.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-sweet--portfolio1.vercel.app-5dcaa5?style=flat-square&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-sweet--portfolio1.vercel.app-00b04f?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:sweetali0520@gmail.com">
     <img src="https://img.shields.io/badge/Email-sweetali0520@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://drive.google.com/file/d/1fYoBpcQRMiFeioBdDvhxmqB1Zcq98LmI/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View%20PDF-gray?style=flat-square&logo=googledrive&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-555555?style=flat-square&logo=googledrive&logoColor=white"/>
   </a>
 </p>
 
@@ -78,18 +78,20 @@ Building ERP, AI-powered, and e-commerce applications for real businesses in Ban
 
 ### $ top -stats github
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-sweet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5dcaa5&icon_color=5dcaa5&text_color=a0aec0" height="170" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-sweet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5dcaa5&text_color=a0aec0" height="170" alt="Top Languages"/>
-</p>
+<div align="center">
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-sweet&theme=tokyonight&hide_border=true&background=0d1117&ring=5dcaa5&fire=5dcaa5&currStreakLabel=5dcaa5&sideLabels=a0aec0&dates=a0aec0" alt="GitHub Streak"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=dev-sweet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b04f&icon_color=00b04f&text_color=a0aec0" height="170" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-sweet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b04f&text_color=a0aec0" height="170" alt="Top Languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-sweet&theme=tokyonight&hide_border=true&background=0d1117&ring=00b04f&fire=00b04f&currStreakLabel=00b04f&sideLabels=a0aec0&dates=a0aec0" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <em>// open to remote work · available for freelance · always building something</em>
-</p>
+<div align="center">
+
+*// open to remote work · available for freelance · always building something*
+
+</div>
