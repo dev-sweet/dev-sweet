@@ -79,27 +79,24 @@ Building ERP, AI-powered, and e-commerce applications for real businesses in Ban
 ### $ top -stats github
 
 <div align="center">
-### $ top -stats github
-
-<div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=dev-sweet&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=dev-sweet&show_icons=true&theme=dark&hide_border=false&include_all_commits=true"
   alt="GitHub Stats"
 />
 
-<br/>
+<br/><br/>
 
 <img
-  src="https://streak-stats.demolab.com/?user=dev-sweet&theme=dark&hide_border=false"
-  alt="GitHub Streak"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sweet&layout=compact&theme=dark&hide_border=false&langs_count=8"
+  alt="Most Used Languages"
 />
 
-<br/>
+<br/><br/>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sweet&theme=dark&hide_border=false&layout=compact&langs_count=8"
-  alt="Most Used Languages"
+  src="https://github-readme-streak-stats.demolab.com/?user=dev-sweet&theme=dark&hide_border=false"
+  alt="GitHub Streak"
 />
 
 </div>
