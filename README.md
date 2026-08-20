@@ -80,11 +80,15 @@ Building ERP, AI-powered, and e-commerce applications for real businesses in Ban
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dev-sweet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b04f&icon_color=00b04f&text_color=a0aec0" height="170" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-sweet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b04f&text_color=a0aec0" height="170" alt="Top Languages"/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=dev-sweet&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=dev-sweet&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=dev-sweet&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-sweet&theme=tokyonight&hide_border=true&background=0d1117&ring=00b04f&fire=00b04f&currStreakLabel=00b04f&sideLabels=a0aec0&dates=a0aec0" alt="GitHub Streak"/>
+---
+[![](https://komarev.com/ghpvc/?username=dev-sweet&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
 
