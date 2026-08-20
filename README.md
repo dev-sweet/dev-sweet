@@ -79,16 +79,30 @@ Building ERP, AI-powered, and e-commerce applications for real businesses in Ban
 ### $ top -stats github
 
 <div align="center">
-![](https://github-readme-stats.shion.dev/api?username=dev-sweet&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=dev-sweet&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dev-sweet&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### $ top -stats github
 
----
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=dev-sweet&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+  alt="GitHub Stats"
+/>
+
+<br/>
+
+<img
+  src="https://streak-stats.demolab.com/?user=dev-sweet&theme=dark&hide_border=false"
+  alt="GitHub Streak"
+/>
+
+<br/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sweet&theme=dark&hide_border=false&layout=compact&langs_count=8"
+  alt="Most Used Languages"
+/>
+
 </div>
-
----
 
 <div align="center">
 
