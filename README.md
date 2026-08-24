@@ -17,10 +17,9 @@
 
 ---
 
-### $ whoami
+### $ Who am I
 
-Self-taught Full-Stack Engineer with **1+ year** of professional experience and **3+ years** of project-based development.
-Building ERP, AI-powered, and e-commerce applications for real businesses in Bangladesh.
+Full-Stack Developer with 1+ year of professional experience and extensive hands-on project development. I build ERP, HMS, e-commerce, and AI-integrated applications using Next.js, React, TypeScript, Node.js, Prisma, PostgreSQL, MySQL, and MongoDB. Experienced in REST APIs, business logic, authentication & authorization, database architecture, and production-ready responsive interfaces.
 
 ```bash
 🔭  Working on  →  HelloKhata ERP @ Maple Service Solution Limited
@@ -33,7 +32,7 @@ Building ERP, AI-powered, and e-commerce applications for real businesses in Ban
 
 ---
 
-### $ ls ./connect
+### $ Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sweet-ali/" target="_blank">
@@ -45,14 +44,14 @@ Building ERP, AI-powered, and e-commerce applications for real businesses in Ban
   <a href="mailto:sweetali0520@gmail.com">
     <img src="https://img.shields.io/badge/Email-sweetali0520@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/1fYoBpcQRMiFeioBdDvhxmqB1Zcq98LmI/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1uh1BHyODRjcWUSIV1cN1s3GfwO0MARMr/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View%20PDF-555555?style=flat-square&logo=googledrive&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### $ cat languages_and_tools.txt
+### $ Languages and tools
 
 <p align="left">
   <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>&nbsp;&nbsp;
@@ -69,6 +68,9 @@ Building ERP, AI-powered, and e-commerce applications for real businesses in Ban
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+</a>&nbsp;&nbsp;
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
@@ -76,7 +78,7 @@ Building ERP, AI-powered, and e-commerce applications for real businesses in Ban
 
 ---
 
-### $ top -stats github
+### $ top Github Status
 <table>
   <tr>
     <td valign="top" width="50%">
