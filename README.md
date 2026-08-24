@@ -79,18 +79,16 @@ Building ERP, AI-powered, and e-commerce applications for real businesses in Ban
 ### $ top -stats github
 
 <div align="center">
+### 📊 GitHub Stats
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=dev-sweet&show_icons=true&theme=dark&hide_border=false&include_all_commits=true"
-  alt="GitHub Stats"
-/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-sweet&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00b04f&icon_color=00b04f&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sweet&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00b04f&text_color=c9d1d9&langs_count=8" />
+</p>
 
-<br/><br/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sweet&layout=compact&theme=dark&hide_border=false&langs_count=8"
-  alt="Most Used Languages"
-/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-sweet&theme=dark&hide_border=true&background=0d1117&stroke=00b04f&ring=00b04f&fire=00b04f&currStreakLabel=00b04f&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+</p>
 
 <br/><br/>
 
