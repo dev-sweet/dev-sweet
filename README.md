@@ -80,10 +80,10 @@ Building ERP, AI-powered, and e-commerce applications for real businesses in Ban
 <table>
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=dev-sweet&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00b04f&icon_color=00b04f&text_color=c9d1d9" width="100%" />
+      <img src="https://github-stats-extended.vercel.app/api?username=dev-sweet&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00b04f&icon_color=00b04f&text_color=c9d1d9" width="100%" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sweet&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00b04f&text_color=c9d1d9&langs_count=8" width="100%" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dev-sweet&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00b04f&text_color=c9d1d9&langs_count=8" width="100%" />
     </td>
   </tr>
 </table>
