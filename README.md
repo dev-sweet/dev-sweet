@@ -82,16 +82,16 @@ Full-Stack Developer with 1+ year of professional experience and extensive hands
 <table>
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-stats-extended.vercel.app/api?username=dev-sweet&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00b04f&icon_color=00b04f&text_color=c9d1d9" width="100%" />
+      <img src="https://github-stats-extended.vercel.app/api?username=dev-sweet&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00b04f&icon_color=00b04f&text_color=c9d1d9" width="100%" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dev-sweet&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00b04f&text_color=c9d1d9&langs_count=8" width="100%" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dev-sweet&layout=compact&hide_border=true&bg_color=0d1117&title_color=00b04f&text_color=c9d1d9&langs_count=8" width="100%" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=dev-sweet&theme=dark&hide_border=true&background=0d1117&stroke=00b04f&ring=00b04f&fire=00b04f&currStreakLabel=00b04f&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="60%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=dev-sweet&hide_border=true&background=0d1117&stroke=00b04f&ring=00b04f&fire=00b04f&currStreakLabel=00b04f&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="60%" />
 </p>
 
 
