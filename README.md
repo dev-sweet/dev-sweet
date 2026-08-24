@@ -82,16 +82,28 @@ Full-Stack Developer with 1+ year of professional experience and extensive hands
 <table>
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-stats-extended.vercel.app/api?username=dev-sweet&show_icons=true&hide_border=true&title_color=00b04f&icon_color=00b04f&text_color=c9d1d9" width="100%" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=dev-sweet&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00b04f&icon_color=00b04f&text_color=c9d1d9" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=dev-sweet&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=006d2c&icon_color=006d2c&text_color=24292f" />
+        <img src="https://github-stats-extended.vercel.app/api?username=dev-sweet&show_icons=true&theme=default&hide_border=true" width="100%" />
+      </picture>
     </td>
     <td valign="top" width="50%">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dev-sweet&layout=compact&hide_border=true&title_color=00b04f&text_color=c9d1d9&langs_count=8" width="100%" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=dev-sweet&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00b04f&text_color=c9d1d9&langs_count=8" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=dev-sweet&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=006d2c&text_color=24292f&langs_count=8" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dev-sweet&layout=compact&theme=default&hide_border=true&langs_count=8" width="100%" />
+      </picture>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=dev-sweet&hide_border=true&stroke=00b04f&ring=00b04f&fire=00b04f&currStreakLabel=00b04f&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="60%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=dev-sweet&theme=dark&hide_border=true&background=0d1117&stroke=00b04f&ring=00b04f&fire=00b04f&currStreakLabel=00b04f&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=dev-sweet&theme=default&hide_border=true&background=ffffff&stroke=006d2c&ring=006d2c&fire=006d2c&currStreakLabel=006d2c&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=dev-sweet&theme=default&hide_border=true" width="60%" />
+  </picture>
 </p>
 
 
